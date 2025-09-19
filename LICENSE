@@ -1,21 +1,21 @@
-MIT License
+# KwaMastende - Property Search App
 
-Copyright (c) 2025 Nthabeleng Aeden Manell 
+Copyright (c) 2025 KwaMastende - Property Search App
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**All Rights Reserved**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Preamble
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This software, "KwaMastende - Property Search App," is a mobile-first platform revolutionizing the informal township property market in South Africa. We connect landlords and tenants directly, eliminating costly agent and finder's fees, and providing a user-friendly experience for finding and listing backrooms and other rental units in townships. The source code is made available for transparency and to showcase the project's architecture and implementation.
+
+## License Grant
+
+The copyright holder grants no license to this software, and all rights are reserved.
+
+Permission is not granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+Any use of the Software, including but not limited to commercial use, modification, distribution, or private use, is strictly prohibited without the express written permission of the copyright holder.
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

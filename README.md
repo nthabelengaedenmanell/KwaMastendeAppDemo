@@ -26,3 +26,31 @@ KwaMastende is a free mobile application available on iOS and Android, offering:
     * **Students:** Seeking safe and affordable accommodation near universities or colleges.
     * **Young Professionals & Workers:**  Needing affordable housing near workplaces in townships closer to economic hubs.
     * **New Arrivals:** Individuals relocating to Gauteng's high-activity areas like Soweto, Tembisa, and Mamelodi.
+
+## Contributing
+Due to the proprietary nature of this project, we do not accept direct pull requests for code changes.
+
+However, we value community feedback. If you find a bug, have a suggestion, or want to request a feature, please open an issue on this repository.
+
+When reporting a bug, please include:
+
+* **A clear and descriptive title.
+* **Steps to reproduce the issue.
+* **What you expected to happen.
+* **What actually happened.
+* **Screenshots or screen recordings, if possible.
+
+## License
+Copyright © 2025 KwaMastende. All Rights Reserved.
+
+## This project is licensed under a proprietary license. The source code is provided for viewing and transparency purposes only.
+
+You are not permitted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+For full details, please see the LICENSE file.
+
+## Contact
+For any inquiries, partnerships, or support, please reach out to us:
+
+Email: contact@kwamastende.co.za
+Website: www.kwamastende.co.za (coming soon)

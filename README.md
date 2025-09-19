@@ -34,11 +34,11 @@ However, we value community feedback. If you find a bug, have a suggestion, or w
 
 When reporting a bug, please include:
 
-* **A clear and descriptive title.
-* **Steps to reproduce the issue.
-* **What you expected to happen.
-* **What actually happened.
-* **Screenshots or screen recordings, if possible.
+* A clear and descriptive title.
+* Steps to reproduce the issue.
+* What you expected to happen.
+* What actually happened.
+* Screenshots or screen recordings, if possible.
 
 ## License
 Copyright © 2025 KwaMastende. All Rights Reserved.

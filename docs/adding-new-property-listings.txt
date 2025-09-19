@@ -1,0 +1,46 @@
+# KwaMastende App - Adding New Property Listings Guide
+
+## Overview
+This guide explains how to add new property listings to the KwaMastende App. Currently, 
+properties are stored as mock data in the home screen component, but this guide also covers future database integration considerations.
+
+## Current Property Data Structure
+
+Each property listing must include the following fields:
+
+### Required Fields:
+- id: number (unique identifier)
+- title: string (property headline, e.g., "Modern 2-Bedroom Apartment in Soweto")
+- description: string (detailed property description)
+- bedrooms: number (number of bedrooms)
+- bathrooms: number (number of bathrooms)
+- monthly_rent: number (monthly rental amount in ZAR)
+- deposit_amount: number (security deposit amount in ZAR)
+- province: string (South African province, e.g., "Gauteng", "Western Cape")
+- township: string (township/area name, e.g., "Soweto", "Sandton")
+- street_address: string (full street address)
+- landlord_name: string (property owner/manager name)
+- landlord_phone: string (contact phone number in +27 format)
+- landlord_email: string (contact email address)
+- features: string[] (array of property features/amenities)
+- images: string[] (array of image file paths)
+
+### Example Property Object:
+```javascript
+{
+  id: 11,
+  title: "Cozy 1-Bedroom Flat in Johannesburg CBD",
+  description: "Modern flat in the heart of Johannesburg with easy access to public transport and shopping centers.",
+  bedrooms: 1,
+  bathrooms: 1,
+  monthly_rent: 4500,
+  deposit_amount: 4500,
+  province: "Gauteng",
+  township: "Johannesburg CBD",
+  street_address: "456 Commissioner Street, Johannesburg",
+  landlord_name: "Mary Johnson",
+  landlord_phone: "+27 82 999 1234",
+  landlord_email: "mary.johnson@email.com",
+  features: ["City Views", "Public Transport", "Shopping Centers", "Modern Fixtures"],
+  images: ["/johannesburg-cbd-flat.png", "/city-view-window.png", "/modern-bathroom-interior.png"]
+}

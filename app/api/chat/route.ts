@@ -12,7 +12,7 @@ export async function POST(request: NextRequest) {
 
     const result = streamText({
       model: xai("grok-3", {
-        apiKey: process.env.XAI_API_KEY,
+        apiKey: process.env.API_KEY,
       }),
       prompt: prompt,
       system: `You are a helpful customer support assistant for KwaMastende, a South African property rental app. 

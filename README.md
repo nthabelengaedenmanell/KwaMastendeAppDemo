@@ -18,15 +18,6 @@ KwaMastende is a free mobile application available on iOS and Android, offering:
 * **Instant Access:** Clear listings provide all necessary information for easy access after a rental agreement.
 * **#TownshipEconomy:**  Our slogan emphasizes our commitment to empowering this independent market and driving grassroots economic activity.
 
-
-## Target Market & User Personas.
-
-* **Landlords (The Entrepreneurs):** Property owners seeking a stable secondary income by renting out backrooms and other units. They want to fill vacancies quickly and avoid traditional advertising costs.
-* **Tenants (The Seekers):**
-    * **Students:** Seeking safe and affordable accommodation near universities or colleges.
-    * **Young Professionals & Workers:**  Needing affordable housing near workplaces in townships closer to economic hubs.
-    * **New Arrivals:** Individuals relocating to Gauteng's high-activity areas like Soweto, Tembisa, and Mamelodi.
-
 ## Contributing
 Due to the proprietary nature of this project, we do not accept direct pull requests for code changes.
 

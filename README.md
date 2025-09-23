@@ -39,9 +39,3 @@ Copyright © 2025 KwaMastende. All Rights Reserved.
 You are not permitted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
 For full details, please see the LICENSE file.
-
-## Contact
-For any inquiries, partnerships, or support, please reach out to us:
-
-Email: contact@kwamastende.co.za
-Website: www.kwamastende.co.za (coming soon)
